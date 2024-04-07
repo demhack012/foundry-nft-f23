@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100">
+    <defs>
+        <style id="circleStyle">
+            circle {
+                fill: lightblue;
+            }
+        </style>
+        <style id="rectangleStyle">
+            rect {
+                fill: lightgray;
+            }
+        </style>
+    </defs>
+
+    <switch>
+        <g media="(aspect-ratio: 1)">
+            <circle cx="50" cy="50" r="40" xlink:href="#circleStyle" />
+        </g>
+        <g>
+            <rect x="20" y="20" width="60" height="60" xlink:href="#rectangleStyle" />
+        </g>
+    </switch>
+</svg>

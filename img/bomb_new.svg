@@ -1,0 +1,421 @@
+<svg version="1.2" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    x="0px" y="0px" xml:space="preserve">
+    <path id="a" d="M10,50" />
+
+    <g id="b">
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#a" begin="1s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#a" begin="1s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#a" begin="1s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#a" begin="1s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#a" begin="1s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#a" begin="1s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#a" begin="1s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#a" begin="1s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#a" begin="1s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#a" begin="1s" />
+        </use>
+    </g>
+    <g id="c">
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#b" begin="1s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#b" begin="1s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#b" begin="1s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#b" begin="1s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#b" begin="1s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#b" begin="1s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#b" begin="1s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#b" begin="1s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#b" begin="1s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#b" begin="1s" />
+        </use>
+    </g>
+    <g id="d">
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#c" begin="1s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#c" begin="1s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#c" begin="1s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#c" begin="1s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#c" begin="1s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#c" begin="1s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#c" begin="1s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#c" begin="1s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#c" begin="1s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#c" begin="1s" />
+        </use>
+    </g>
+    <g id="e">
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#d" begin="12s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#d" begin="12s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#d" begin="12s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#d" begin="12s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#d" begin="12s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#d" begin="12s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#d" begin="12s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#d" begin="12s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#d" begin="12s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#d" begin="12s" />
+        </use>
+    </g>
+    <g id="f">
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#e" begin="15s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#e" begin="15s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#e" begin="15s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#e" begin="15s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#e" begin="15s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#e" begin="15s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#e" begin="15s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#e" begin="15s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#e" begin="15s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#e" begin="15s" />
+        </use>
+    </g>
+    <g id="g">
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#f" begin="18s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#f" begin="18s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#f" begin="18s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#f" begin="18s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#f" begin="18s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#f" begin="18s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#f" begin="18s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#f" begin="18s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#f" begin="18s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#f" begin="18s" />
+        </use>
+    </g>
+    <g id="h">
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#g" begin="21s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#g" begin="21s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#g" begin="21s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#g" begin="21s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#g" begin="21s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#g" begin="21s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#g" begin="21s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#g" begin="21s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#g" begin="21s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#g" begin="21s" />
+        </use>
+    </g>
+    <g id="i">
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#h" begin="24s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#h" begin="24s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#h" begin="24s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#h" begin="24s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#h" begin="24s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#h" begin="24s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#h" begin="24s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#h" begin="24s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#h" begin="24s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#h" begin="24s" />
+        </use>
+    </g>
+    <g id="j">
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#i" begin="27s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#i" begin="27s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#i" begin="27s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#i" begin="27s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#i" begin="27s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#i" begin="27s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#i" begin="27s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#i" begin="27s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#i" begin="27s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#i" begin="27s" />
+        </use>
+    </g>
+    <g id="k">
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#j" begin="30s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#j" begin="30s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#j" begin="30s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#j" begin="30s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#j" begin="30s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#j" begin="30s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#j" begin="30s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#j" begin="30s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#j" begin="30s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#j" begin="30s" />
+        </use>
+    </g>
+    <g id="l">
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#k" begin="33s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#k" begin="33s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#k" begin="33s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#k" begin="33s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#k" begin="33s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#k" begin="33s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#k" begin="33s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#k" begin="33s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#k" begin="33s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#k" begin="33s" />
+        </use>
+    </g>
+    <g id="m">
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#l" begin="36s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#l" begin="36s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#l" begin="36s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#l" begin="36s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#l" begin="36s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#l" begin="36s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#l" begin="36s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#l" begin="36s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#l" begin="36s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#l" begin="36s" />
+        </use>
+    </g>
+    <g id="n">
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#m" begin="39s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#m" begin="39s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#m" begin="39s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#m" begin="39s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#m" begin="39s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#m" begin="39s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#m" begin="39s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#m" begin="39s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#m" begin="39s" />
+        </use>
+        <use xlink:href="#">
+            <set attributeName="xlink:href" to="#m" begin="39s" />
+        </use>
+    </g>
+</svg>

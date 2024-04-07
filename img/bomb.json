@@ -1,0 +1,11 @@
+{
+    "name": "BOMB",
+    "description": "This is made to crash your browser",
+    "image": "https://ipfs.io/ipfs/QmVgUGdbX5cHydGTiGVmZT8wceuTSHRdoCqxyu6FqeARDN?filename=output.svg",
+    "attributes": [
+        {
+            "trait_type": "resources",
+            "value": 100
+        }
+    ]
+}
